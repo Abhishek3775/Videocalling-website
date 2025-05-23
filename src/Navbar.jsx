@@ -9,7 +9,7 @@ function Navbar() {
       </div>
       <ul className="flex gap-6 text-white font-semibold text-lg">
         <li>
-          <Link to="/home" className="hover:text-yellow-300 transition">Home</Link>
+          <Link to="/" className="hover:text-yellow-300 transition">Home</Link>
         </li>
         <li>
           <Link to="/about" className="hover:text-yellow-300 transition">About</Link>
